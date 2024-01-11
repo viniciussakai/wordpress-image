@@ -1,0 +1,4 @@
+.env
+wp-app/*
+## !wp-app/wp-content
+wp-data/*
